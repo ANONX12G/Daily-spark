@@ -170,7 +170,7 @@ export default function App() {
         <h3 style={{ color: "#f5c842", marginTop: 20, marginBottom: 8, fontSize: 15 }}>Changes to This Policy</h3>
         <p style={{ lineHeight: 1.8, color: "#ccc", fontSize: 14 }}>We may update this Privacy Policy from time to time. Any changes will be posted on this page.</p>
         <h3 style={{ color: "#f5c842", marginTop: 20, marginBottom: 8, fontSize: 15 }}>Contact</h3>
-        <p style={{ lineHeight: 1.8, color: "#ccc", fontSize: 14 }}>If you have any questions about this Privacy Policy, contact us at: dailysparkapp@gmail.com</p>
+        <p style={{ lineHeight: 1.8, color: "#ccc", fontSize: 14 }}>If you have any questions about this Privacy Policy, contact us at:!ignitedailyspark@gmail.com</p>
       </div>
     </div>
   );
