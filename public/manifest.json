@@ -1,1 +1,18 @@
-
+{
+  "name": "Daily Spark",
+  "short_name": "Daily Spark",
+  "description": "Your daily dose of motivational quotes and fun facts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#f5c842",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
